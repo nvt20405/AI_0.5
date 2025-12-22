@@ -1,11 +1,2 @@
 fastapi
 uvicorn
-huggingface_hub
-pydantic
-numpy>=1.20.0
-diskcache>=5.6.1
-jinja2>=2.11.3
-typing-extensions>=4.5.0
-MarkupSafe>=2.0
---no-binary llama-cpp-python
-llama-cpp-python==0.3.1
